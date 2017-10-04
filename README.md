@@ -15,3 +15,14 @@ You are given 2 books
   - Book1.txt 
   - Book2.txt
   
+1. Do a search analysis on each book and display the unique words in each book and the number of times each word was used.
+
+2. Find the total number of words used in each book excluding the words in the list. => ["a", "the", "at", "run", "to","and","are","or","for","an","this"]
+
+3. Display the words in Book1 that are not in Book2
+
+4. Find the longest word used in each book
+
+5. In each book count the total number of words that start with this vowel collection tuple =>  ("a", "e", "i", "o", "u").
+
+  
