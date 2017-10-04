@@ -26,3 +26,6 @@ You are given 2 books
 5. In each book count the total number of words that start with this vowel collection tuple =>  ("a", "e", "i", "o", "u").
 
   
+Please used task#.py for each task filename, eg: for Do a search analysis on each book and display the unique words the file name should be task1.py
+
+Good luck!
